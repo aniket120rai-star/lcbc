@@ -1,0 +1,8 @@
+{
+  "name": "LCBC ",
+  "description": "Student academic portal for Lalit Chandra Bharali College, Maligaon, Guwahati (Est. 1971, Affiliated to Gauhati University, NAAC B++).",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
